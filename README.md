@@ -1,6 +1,6 @@
 Hola, ¿Cómo estás?
-Mi nombre es Marlon Calva Carrillo.
+Mi nombre es Marlon Calva.
 👨‍🎓 Soy estudiantes de la carrera "Ingeniería en sistemas computacionales" en la universidad UCAD.
-🌱 Actualmente estoy estudiando y enfocándome en el desarrollo de software implementando la IA.
-🏁 A largo plazo planeo ser desarrollador de software Full Stack.
-🎖️ Tengo conocimientos en Python, JavaScript (En especial Testing), y SQL.
+🌱 Actualmente estoy estudiando y enfocándome en el desarrollo de software con cobol implementando la IA.
+🏁 A largo plazo planeo ser arquitecto de software.
+🎖️ Tengo conocimientos en Cobol, Python y SQL (MySQL, DB2).
